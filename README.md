@@ -56,7 +56,33 @@ When you first visit the app, you will be presented with a typical login screen.
 We have included options to signup, login or forgotten password.  
 You will be automatically signed out after 5 minutes of idle time.  
 
+### Login page
+
 ![Login](./assets/login_page.png)
+
+### SignUp page
+
+![SignUp](./assets/SignUp_page.png)
+
+### Forgot Password Page
+
+![Forgot Password](./assets/forgot_password.png)
+
+## After Login, Redirection to the Dashboard:
+
+### Dashboard
+
+![Dashboard](./assets/Dashboard_Screenshot.png)
+
+### Add Logbook Entry:
+
+![AddNew](./assets/AddNew_Screenshot.png)
+
+### Edit 
+
+![Edit](./assets/Edit_Del_screenshot.png)
+
+![Edit](./assets/Edit_ss.png)
 
 ## Links  
 Github link: [Flight Logs Github repository](https://github.com/ausamindec)
