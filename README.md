@@ -4,7 +4,7 @@
 
 ## Link to see the deployed application:
 
-[DEPLOYED APPLICATION Flight logs](https://proje-2.herokuapp.com/) 
+### [DEPLOYED APPLICATION Flight logs](https://proje-2.herokuapp.com/) 
 
 ## Link to presentation Walkthrough of the application [Flight Logs](https://docs.google.com/presentation/d/1VkCxlMfzRDLJgDulqRDW2buKqhcXd89twEXsXEmm7VA/edit?usp=sharing)
 
@@ -83,7 +83,7 @@ You will be automatically signed out after 5 minutes of idle time.
 
 ![Edit](./assets/Edit_ss.png)
 
-## Links  
+## Link to GitHub
 Github link: [Flight Logs Github repository](https://github.com/ausamindec)
   
 ## License  
