@@ -16,8 +16,7 @@ An easy-to-use web-based application to record pilot’s flight times.
 Record departure and arrival airports and time and automatically calculate flight time.  
 Record each flight against a specific aircraft type and registration id.  
 Secure login and once you have been logged in, stay logged in until your session expires or you logout  
-  
-![Dashboard]()
+
   
 Packages/libraries used for this application:  
 [Bcrypt](https://www.npmjs.com/package/bcrypt)  
